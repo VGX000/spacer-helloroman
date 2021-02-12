@@ -2,6 +2,11 @@
 
 This app uses NASA image API to fetch images and dispaly them after passing search query
 
+### How to start?
+```
+yarn 
+yarn serve
+```
 ## Project setup
 ```
 npm install
