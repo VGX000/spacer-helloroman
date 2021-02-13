@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-      <div>
+      <div class="nav">
         <router-link to="/">spacer</router-link>
         <router-link to="/about">about</router-link>
       </div>
@@ -8,6 +8,4 @@
   </div>
 </template>
 
-<style lang="scss">
-
-</style>
+<style lang="scss" scoped />
